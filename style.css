@@ -170,3 +170,10 @@ input{
 .contact-footer{
 margin-right: 100px;
 }
+
+.main-section-2:hover{
+    background-color: darkgrey;  
+}
+.main-section-3:hover{
+    background-color: darkgrey;  
+}
